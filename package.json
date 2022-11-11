@@ -8,7 +8,7 @@
   "activationCommands": {
     "atom-workspace": "aaakin:toggle"
   },
-  "repository": "https://github.com/atom/aaakin",
+  "repository": "https://github.com/UFAPRO888s/aaakin",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
