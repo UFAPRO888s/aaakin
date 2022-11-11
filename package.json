@@ -1,9 +1,12 @@
 {
   "name": "aaakin",
   "main": "./lib/aaakin",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "aaaknights เว็บที่ให้ราคาน้ำที่สามารถให้นักพนันบอลเข้ามาทำกำไรได้มากที่สุด เรากล้าท้าลองได้เลยว่าไม่มีเว็บใดให้มากไปกว่าเว็บบอลของเราอย่างแน่นอน",
-  "keywords": [ "พนันบอล","แทงบอล","เว็บบอล"
+  "keywords": [
+    "พนันบอล",
+    "แทงบอล",
+    "เว็บบอล"
   ],
   "activationCommands": {
     "atom-workspace": "aaakin:toggle"
@@ -13,6 +16,5 @@
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
-  "dependencies": {
-  }
+  "dependencies": {}
 }
